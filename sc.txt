@@ -1,0 +1,11 @@
+local alucard = {
+      "[1] Lone Hero",
+      "[2] Fiery Inferno",
+      "[3] Child of The Fall",
+      "[4] Viscount",
+      "[5] Romantic Fantasy",
+      "[6] Obsidian Blade",
+      "[7] Empire Agent",
+      "[8] Lightborn Striker",
+      "[9] Obi Wan Kenobi"
+    }

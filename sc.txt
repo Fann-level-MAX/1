@@ -1,5 +1,4 @@
-{
-  alucard: [
+local alucard: {
     "[1] Lone Hero",
     "[2] Fiery Inferno",
     "[3] Child of The Fall",
@@ -9,5 +8,4 @@
     "[7] Empire Agent",
     "[8] Lightborn Striker",
     "[9] Obi Wan Kenobi"
-  ]
-}
+  }

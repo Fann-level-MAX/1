@@ -1,4 +1,4 @@
-local alucard: {
+{
     "[1] Lone Hero",
     "[2] Fiery Inferno",
     "[3] Child of The Fall",

@@ -56,13 +56,13 @@ local _5 = {
   "[8] Cyclone Clash"
 }
 local _6 = {
-  "[] Warrior of Dawn",
-  "[] Dark Guardian",
-  "[] Fallen Guard",
-  "[] Wyrmslayer",
-  "[] Lightborn – Defender",
-  "[] Gold Baron",
-  "[] Galatic Marshal"
+  "[1] Warrior of Dawn",
+  "[2] Dark Guardian",
+  "[3] Fallen Guard",
+  "[4] Wyrmslayer",
+  "[5] Lightborn – Defender",
+  "[6] Gold Baron",
+  "[7] Galatic Marshal"
 }
 local _7 = {
   "[1] Lone Hero",
@@ -133,13 +133,13 @@ local _13 = {
   "[8] Crimson Blast"
 }
 local _14 = {
-  "[] Fertility Goddess",
-  "[] Flower Fairy",
-  "[] Rafaela Biomedic",
-  "[] SABER Savior",
-  "[] Star Chaser",
-  "[] Angelic Sonata",
-  "[] Seraphic Selfie"
+  "[1] Fertility Goddess",
+  "[2] Flower Fairy",
+  "[3] Rafaela Biomedic",
+  "[4] SABER Savior",
+  "[5] Star Chaser",
+  "[6] Angelic Sonata",
+  "[7] Seraphic Selfie"
 }
 local _15 = {
   "[1] Flame Red Lips",
@@ -151,16 +151,16 @@ local _15 = {
   "[7] Atomic Pop"
 }
 local _16 = {
-  "[] Elite Warrior",
-  "[] Glorious General",
-  "[] Eastern Warrior",
-  "[] Blazing Knight",
-  "[] Changbanpo Commander",
-  "[] Christmas Carnival",
-  "[] Loyal Spear",
-  "[] Summer Waves",
-  "[] Empyrean Paladin",
-  "[] Storm Rider"
+  "[1] Elite Warrior",
+  "[2] Glorious General",
+  "[3] Eastern Warrior",
+  "[4] Blazing Knight",
+  "[5] Changbanpo Commander",
+  "[6] Christmas Carnival",
+  "[7] Loyal Spear",
+  "[8] Summer Waves",
+  "[9] Empyrean Paladin",
+  "[10] Storm Rider"
 }
 local _17 = {
   "[1] Campus Youth",
@@ -175,81 +175,81 @@ local _17 = {
   "[10]Heart Afloat"
 }
 local _18 = {
-  "[] Green Flash",
-  "[] Bunny Babe",
-  "[] Cannon And Roses",
-  "[] Blue Spectre",
-  "[] Classic Malefic Gunner",
-  "[] SABER Breacher",
-  "[] Blazing Gun",
-  "[] Miss Hikari",
+  "[1] Green Flash",
+  "[2] Bunny Babe",
+  "[3] Cannon And Roses",
+  "[4] Blue Spectre",
+  "[5] Classic Malefic Gunner",
+  "[6] SABER Breacher",
+  "[7] Blazing Gun",
+  "[8] Miss Hikari",
 }
 local _19 = {
-  "[] Bursting Yama",
-  "[] Orbiter",
-  "[] Sacred Hammer",
-  "[] Zodiac Taurus",
+  "[1] Bursting Yama",
+  "[2] Orbiter",
+  "[3] Sacred Hammer",
+  "[4] Zodiac Taurus",
 }
 local _20 = {
-  "[] Soldier Training",
-  "[] Impish Trickster",
-  "[] Lion Dance",
-  "[] Spesial Op",
-  "[] Genki Slam",
+  "[1] Soldier Training",
+  "[2] Impish Trickster",
+  "[3] Lion Dance",
+  "[4] Spesial Op",
+  "[6] Genki Slam",
 }
 local _21 = {
-  "[] Crimson Shadow",
-  "[] Spacetime Shadow",
-  "[] Future Enforcer",
-  "[] Sushi Master",
-  "[] Experiment 21",
-  "[] Shadow of Obscurity",
-  "[] Biological Weapon",
-  "[] Shura",
+  "[1] Crimson Shadow",
+  "[2] Spacetime Shadow",
+  "[3] Future Enforcer",
+  "[4] Sushi Master",
+  "[5] Experiment 21",
+  "[6] Shadow of Obscurity",
+  "[7] Biological Weapon",
+  "[8] Shura",
 }
 local _22 = {
-  "[] Dark Rose",
-  "[] Dragon Hunter",
-  "[] Beach Sweetheart",
-  "[] War Angel",
-  "[] Gladiator",
-  "[] Christmas Carnival",
-  "[] Raven Shogun",
-  "[] Manhunter",
+  "[1] Dark Rose",
+  "[2] Dragon Hunter",
+  "[3] Beach Sweetheart",
+  "[4] War Angel",
+  "[5] Gladiator",
+  "[6] Christmas Carnival",
+  "[7] Raven Shogun",
+  "[8] Manhunter",
 }
 local _23 = {
-  "[] Professor of Hell",
-  "[] Christmas Carnival",
-  "[] Conqueror",
-  "[] No 1 Controller",
-  "[] New Baron"
+  "[1] Professor of Hell",
+  "[2] Christmas Carnival",
+  "[3] Conqueror",
+  "[4] No 1 Controller",
+  "[5] New Baron"
 }
 local _24 = {
-  "[] Glass Blade",
-  "[] Phantom Dancer",
-  "[] Deadly Mamba",
-  "[] Midnight Raven",
-  "[] Grim Strangler",
-  "[] Cyber Spectre"
+  "[1] Glass Blade",
+  "[2] Phantom Dancer",
+  "[3] Deadly Mamba",
+  "[4] Midnight Raven",
+  "[5] Grim Strangler",
+  "[6] Cyber Spectre"
 }
 local _25 = {
-  "[] Flower Season",
-  "[] Cherry Witch",
-  "[] Summer Festival",
-  "[] Soryu Maiden",
-  "[] Rainy Walk",
-  "[] Water Lily",
-  "[] Exorcist Kagura"
+  "[1] Flower Season",
+  "[2] Cherry Witch",
+  "[3] Summer Festival",
+  "[4] Soryu Maiden",
+  "[5] Rainy Walk",
+  "[6] Water Lily",
+  "[7] Exorcist Kagura"
 }
 local _26 = {
-  "[] Dragon Boy",
-  "[] Hip-Hop Boy",
-  "[] Go Ballistic",
-  "[] King of Muay Thai",
-  "[] Furious Tiger",
-  "[] Lori Yagamai",
-  "[] Thunderfist",
-  "[] STUN Chou"
+  "[1] Dragon Boy",
+  "[2] Hip-Hop Boy",
+  "[3] Go Ballistic",
+  "[4] King of Muay Thai",
+  "[5] Furious Tiger",
+  "[6] Lori Yagamai",
+  "[7] Thunderfist",
+  "[8] STUN Chou"
 }
 local _27 = {
 }

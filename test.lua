@@ -252,44 +252,110 @@ local _26 = {
   "[8] STUN Chou"
 }
 local _27 = {
+  "[1] Battle Buddha",
+  "[2] Rock Star",
+  '[3] Street Legend',
+  '[4] Celestial Outlaw',
+  '[5] Simian Curse',
+  '[6] Spring Blessing',
+  '[7] Wicked Flames'
 }
 local _28 = {
+[1] Onimusha Commander
+[2] Fierce Dragon
+[3] Sea Gladiator
+[4] Crimson Warrior
+[5] General Void
 }
 local _29 = {
+Cat Girl
+Hidden Orchid Buterfly
+Edelweiss
+Lady Zombie
+Pirate Parrot
+Mecha Maiden
 }
 local _30 = {
+Major General.
+Apocalypse Agent.
+Roguish Ranger.
+Lone Destructor.
+Azure Sentry.
+Fleet Warden.
 }
 local _31 = {
+Spear of Bone Dragon.
+Snake Eye Commander.
+Yasha.
+Javelin Champion.
+Twilight Dragon.
+Decapitator.
+Blood Spear.
 }
 local _32 = {
+Fire Chief
+S.A.B.E.R. Automata
+Jeepney Racer
+Wreck King
+Death Ride
+Optimus Prime
 }
 local _33 = {
+Exorcist
+Super Adventurer
+S.A.B.E.R. Enforcer
+Deep Sea Rescuer
+Zombie Bambino
+Master Yoda
+Straw Doll
 }
 local _34 = {
+Holy Priest
+Galaxy Dominator
+White Crane
+Crow Bishop
+Rattan Dragon
+Blacklist International
 }
 local _35 = {
+Power of Wildness
+Flower of the Wastes
+Sacred Guard
+Aries
+Bass Craze
 }
 local _36 = {
+
 }
 local _37 = {
+
 }
 local _38 = {
+
 }
 local _39 = {
+
 }
 local _40 = {
+
 }
 local _41 = {
+
 }
 local _42 = {
+
 }
 local _43 = {
+
 }
 local _44 = {
+
 }
 local _45 = {
+
 }
 local _46 = {
+
 }
 local _47 = {
   "[] Masked Knight",
